@@ -1,0 +1,2 @@
+# Gulosos
+Greedy  Algorithm
